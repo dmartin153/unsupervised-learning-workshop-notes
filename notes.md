@@ -1,14 +1,14 @@
-##Upcoming events
+## Upcoming events
 18th -- R meetup, on data visualization
 25th -- AI discussion
 25th -- AGILE Data science talk
 
-##Talk
+## Talk
 Hands on in addition to talking
 
 - focus on clustering
 
-##Introduction
+## Introduction
 - Raghav Jandhyala
  - Sr. Director, IOT, and Digital Supply Chain, SAP
  - DataScientist - Harvard
@@ -17,12 +17,12 @@ Hands on in addition to talking
  - Lab Assistance
  - Advanced Cyper Hunting, American Express
 
-##Agenda
+## Agenda
 - Un-Supervised Machine Learning
 - Clustering Techniques with Examples
 - Hands-On exercises
 
-##Lecture
+## Lecture
 - AI, Machine Learning and Deep Learning
 
 ### AI
@@ -95,12 +95,12 @@ Hands on in addition to talking
  - Real-time decisions
  - Learning tasks
 - Supervised Learning
- - Classification
-  - Identity Fraud Detection
-  - Image Classification
-  - Customer Retention
- - Regression
-  - Any prediction
+  - Classification
+    - Identity Fraud Detection
+    - Image Classification
+    - Customer Retention
+  - Regression
+    - Any prediction
 
 ### Understanding Demand Pattern recognition
 - Statistical forecasting eliminates the "noise" to determine best "explainable" forecast
@@ -114,8 +114,19 @@ Hands on in addition to talking
 - Partitioning or grouping of similar data points
 - Humans have a natural tendency of grouping objects.
 - With un-supervised learning machines can partition like humans e.g. living and non-living; animals and plants, etc
-- Examples of clustering in real-world
- - Cluster products based on sales history
- - Cluster Customers based on similar buying patterns
- - Clusters Mutual funds based on fund behavior
- - Recommendation engines, market segmentation, social network analysis, medical imaging and anomaly detection
+- Examples of clustering in real-worlds - Cluster products based on sales history
+  - Cluster Customers based on similar buying patterns
+  - Clusters Mutual funds based on fund behavior
+  - Recommendation engines, market segmentation, social network analysis, medical imaging and anomaly detection
+
+### ML vs Conentional approaches for clustering
+
+### Segmentation
+- You know who your target is
+- Rules based
+- Multiple characteristics to evaluate: Age, Gender, Income Hard to find correlations
+
+### Clustering
+- Using Machine learning to identify targets
+- Finds relationships between data points
+- Handles hundreds of characteristics and identifies buying behaviors
